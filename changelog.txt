@@ -1,0 +1,4 @@
+plugin.video.iptvorg:
+---------------------------
+v0.0.1 (20240801)
+First Release
